@@ -1,0 +1,12 @@
+import './components/debounce.js';
+import './components/header-search.js';
+import './components/search.js';
+import './components/nav-dropdown.js';
+import './components/mobile-menu.js';
+import './components/catalog-links.js';
+import './components/dialogs.js';
+import './components/login.js';
+import './components/breadcrumbs.js';
+import './components/chooseProduct.js';
+import './components/cart.js';
+import './components/order-result.js';
